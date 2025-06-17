@@ -1,0 +1,22 @@
+# Archivos compilados
+/out/
+/target/
+*.class
+
+# Archivos de configuración del IDE (IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos generados por el sistema
+/reportes/
+/docs/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
